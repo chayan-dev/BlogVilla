@@ -10,6 +10,9 @@ object ArticlesRepo {
   val api = ConduitClient.publicApi
   val authApi = ConduitClient.authApi
 
+  suspend fun getGlobalFeed() = api.getArticles().body()?.articles
+  suspend fun getMyFeed() = authApi.getFeedArticles().body()?.articles
+
   suspend fun createArticle(
     title:String?,
     description:String?,
