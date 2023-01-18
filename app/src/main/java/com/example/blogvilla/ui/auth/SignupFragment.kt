@@ -8,7 +8,6 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import com.example.blogvilla.databinding.FragmentLoginSignupBinding
-import com.example.blogvilla.ui.AuthViewModel
 
 class SignupFragment : Fragment() {
 

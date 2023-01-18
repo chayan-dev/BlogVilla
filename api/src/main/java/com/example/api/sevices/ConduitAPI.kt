@@ -1,4 +1,4 @@
-package com.example.api
+package com.example.api.sevices
 
 import com.example.api.models.requests.LoginRequest
 import com.example.api.models.requests.SignupRequest

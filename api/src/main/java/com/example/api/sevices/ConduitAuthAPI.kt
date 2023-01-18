@@ -1,4 +1,4 @@
-package com.example.api
+package com.example.api.sevices
 
 import com.example.api.models.requests.UpsertArticleRequest
 import com.example.api.models.requests.UserUpdateRequest

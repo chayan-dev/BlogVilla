@@ -1,5 +1,7 @@
 package com.example.api
 
+import com.example.api.sevices.ConduitAPI
+import com.example.api.sevices.ConduitAuthAPI
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit

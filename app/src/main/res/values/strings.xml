@@ -10,5 +10,8 @@
   <string name="create_article">New Article</string>
 
   <string name="arg_article_id">ARTICLE_ID</string>
+  <string name="nav_header_desc">Navigation header</string>
+  <string name="nav_header_title">Android Studio</string>
+  <string name="action_logout">Logout</string>
 
 </resources>

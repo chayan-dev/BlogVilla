@@ -1,4 +1,4 @@
-package com.example.blogvilla.ui
+package com.example.blogvilla.ui.auth
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
